@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-const NAME string = "stupid-shell"
+const NAME string = "aus"
 
 func parseAndExecute(cmd string) string {
 	if cmd == "exit" {
